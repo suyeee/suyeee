@@ -1,9 +1,17 @@
 😎 i'm 황수연
+
 😊 age is 24
-😁  i'm currently learning Data Engineering
+
+😁 i'm currently learning Data Engineering
+
+
 
 
 
 # Analysis Project
 
+[project-idea](https://github.com/suyeee/project-idea.git)
+
 [Visualization-Project](https://github.com/suyeee/Visualization-Project.git)
+
+[mini-project](https://github.com/suyeee/mini-project.git)
