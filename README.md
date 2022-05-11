@@ -1,4 +1,4 @@
-😎 i'm 황수연
+😎 i'm suyeee
 
 😊 age is 24
 
@@ -15,6 +15,12 @@
 [mini-project](https://github.com/suyeee/mini-project.git)
 
 [Visualization-Project](https://github.com/suyeee/Visualization-Project.git)
+
+
+
+# To Do Study
+
+[오늘 배운내용, 오늘 공부한 내용](https://github.com/suyeee/todo_study.git)
 
 
 
