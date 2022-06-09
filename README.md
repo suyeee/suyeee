@@ -14,7 +14,9 @@
 
 [mini-project](https://github.com/suyeee/mini-project.git)
 
-[Visualization-Project](https://github.com/suyeee/Visualization-Project.git)
+[프로젝트1_시각화_프로젝트](https://github.com/suyeee/Visualization-Project.git)
+
+[프로젝트2_데이터_엔지니어링반](https://github.com/suyeee/DE_Project)
 
 
 
