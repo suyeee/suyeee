@@ -18,6 +18,8 @@
 
 [프로젝트2_데이터_엔지니어링반](https://github.com/suyeee/DE_Project)
 
+[프로젝트3_기업요구사항 기반 문제해결 프로젝트](https://github.com/suyeee/DE_DS_project)
+
 
 
 # To Do Study
